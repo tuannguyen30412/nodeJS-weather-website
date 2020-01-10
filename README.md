@@ -1,3 +1,3 @@
 # nodeJS-weather-website
 
-Weather app is contributed by Tien Nguyen
+Weather app is created using JavaScript and Node 
